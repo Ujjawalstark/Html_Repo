@@ -4,7 +4,7 @@
 <title>
   GitHub Practical
 </title>		
-  <body>
+  <body style="bg-color: LightGray;">
 		<h1> Various Electronic Gadgets : - </h1>
     <ol>
     <li> Lenovo </li>
